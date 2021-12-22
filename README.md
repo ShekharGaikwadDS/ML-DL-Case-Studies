@@ -1,4 +1,3 @@
-Personalized Medicine: Redefining Cancer Treatment
 Understanding the genetic mutations that really matter in a cancer tumor is a really challenging task with a potential huge impact on millions of lives  cancer tumor can have thousands of genetic mutations. But the challenge is distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations 
 For the past several years, world-class researchers at Memorial Sloan Kettering Cancer Center have worked to create an expert-annotated precision oncology knowledge base. It contains several thousand annotations of which genes are clinically actionable and which are not based on clinical literature.
 so my main goal is to  to develop classification models which analyze abstracts of medical articles and, based on their content accurately determine oncogenicity (4 classes) and mutation effect (9 classes) of the genes discussed in them
